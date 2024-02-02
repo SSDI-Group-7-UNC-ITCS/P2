@@ -1,4 +1,6 @@
 'use strict';
+
+// Code contributed by Pisati Mahipal Reddy
 function MakeMultiFilter(originalArray) {
     var currentArray = originalArray.slice();
 
