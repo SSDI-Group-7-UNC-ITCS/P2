@@ -1,3 +1,4 @@
+"use strict";
 const arrayFilterer1 = MakeMultiFilter([4,5,6]);
 
 arrayFilterer1(function (element) :boolean {
