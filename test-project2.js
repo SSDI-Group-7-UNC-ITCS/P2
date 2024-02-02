@@ -1,6 +1,6 @@
 'use strict';
 (function() {
- /* Code contributed by Venkata Revanth Reddy Palakonda and Laxmi Harika Bibireddy */
+ /* Code contributed by Venkata Revanth Palakonda and Laxmi Harika Bibireddy */
 /*
  * This file tests the Project #2 JavaScript assignment problems. It prints what
  * it finds to the console log and updates the text being displayed in the window with a
