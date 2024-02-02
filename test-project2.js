@@ -1,4 +1,5 @@
 'use strict';
+/* global TemplateProcessor */
 (function() {
  /* Code contributed by Venkata Revanth Reddy Palakonda and Laxmi Harika Bibireddy */
 /*
