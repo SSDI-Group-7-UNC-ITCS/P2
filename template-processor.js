@@ -7,5 +7,6 @@ function TemplateProcessor(template) {
 TemplateProcessor.prototype.fillIn = function(dictionary) {
     return this.template.replace(/{{(.*?)}}/g, function(match, property) {
         return dictionary[property] || '';
+        // comment to make change
     });
 };
